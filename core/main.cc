@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::printf( "[core] loading...\n" );
+    std::printf( "[core] hola\n" );
     return 0;
 }
